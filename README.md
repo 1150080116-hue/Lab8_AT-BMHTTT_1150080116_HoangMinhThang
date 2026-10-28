@@ -15,7 +15,7 @@ Dự án mô phỏng và thực nghiệm các kỹ thuật tấn công DNS cục
 
 ---
 
-## 🏗️ Kiến trúc mô hình mạng (Topology)
+##  Kiến trúc mô hình mạng (Topology)
 
 | Thành phần | Hệ điều hành / Dịch vụ | Địa chỉ IP | Phân đoạn mạng (Interface) | Vai trò |
 |---|---|---|---|---|
